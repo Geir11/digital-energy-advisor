@@ -1,0 +1,7 @@
+{
+  "electricity_price_isk_per_kwh": 22.5,
+  "installation_cost_isk_per_kw": 250000,
+  "annual_maintenance_pct": 1.5,
+  "system_lifetime_years": 25,
+  "co2_saving_per_kwh": 0.04
+}
